@@ -7,6 +7,10 @@ to make a reproducible scientific project named
 
 It is authored by Spark Tseung.
 
+To view the two Jupyter notebooks for simulation studies in Mixed LRMoE,
+please see [Simulation 1](https://nbviewer.org/github/sparktseung/Demo-MixedLRMoE-jl/blob/main/notebooks/simulation-1.ipynb)
+and [Simulation 2](https://nbviewer.org/github/sparktseung/Demo-MixedLRMoE-jl/blob/main/notebooks/simulation-2.ipynb).
+
 To (locally) reproduce this project, do the following:
 
 0. Download this code base. Notice that raw data are typically not included in the
